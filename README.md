@@ -22,3 +22,11 @@
 
 
 </pag>
+<pag>
+  <img origen="https://github-readme-stats.vercel.app/api?username=KevinPatel04&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" ancho="400">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustav202&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+</p>
+     
+  </td>
+ </tr>
+</table>
